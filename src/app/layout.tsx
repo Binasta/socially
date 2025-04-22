@@ -8,13 +8,13 @@ import Sidebar from "@/components/Sidebar";
 import { Toaster } from "react-hot-toast";
 
 const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
+  src: "./fonts/ComicSansMS.woff",
   variable: "--font-geist-sans",
   weight: "100 900",
 });
 const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
+  src: "./fonts/ComicSansMS.woff",
+  variable: "--font-comis-sans-ms",
   weight: "100 900",
 });
 
